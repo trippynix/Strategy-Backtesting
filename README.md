@@ -71,5 +71,5 @@ If you would like to contribute to this repository, please follow these steps:
 
 ## **LICENSE**
 
-This project is licensed under the [MIT License. See the LICENSE file for detail>
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
