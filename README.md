@@ -69,3 +69,7 @@ If you would like to contribute to this repository, please follow these steps:
 
 5. Create a new Pull Request.
 
+## **LICENSE**
+
+This project is licensed under the [MIT License. See the LICENSE file for detail>
+
