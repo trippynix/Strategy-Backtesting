@@ -69,12 +69,3 @@ If you would like to contribute to this repository, please follow these steps:
 
 5. Create a new Pull Request.
 
-
-### Customizing the Template
-
-- **Repository Structure:** Update the list of strategy folders as you add them.
-- **Prerequisites & Installation:** Modify the prerequisites and installation instructions as needed.
-- **Running a Strategy:** Provide specific instructions for running each strategy in its respective subfolder.
-- **License & Contact:** Adjust the license type and contact information to fit your needs.
-
-This template provides a solid foundation for your repository and ensures that users can easily understand and contribute to your projects.
