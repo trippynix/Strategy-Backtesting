@@ -27,21 +27,25 @@ The strategy was backtested on RELIANCE stock from 2008 to 2024 and achieved a t
    ```bash
    git clone https://github.com/trippynix/Strategies-Backtesting.git
    cd Strategies-Backtesting
+   ```
 
 2. **Requirements**: Install the necessary Python packages.
 
 
-   ```pip install pandas
+      ```bash
+      pip install pandas
       pip install numpy
       pip install yfinance
-
+      ```
 
 3. **Run Backtest**:
 
 - Modify the ticker symbol in the script to backtest different stocks.
 - Run the backtesting script:
 
-   ```python "Simple Moving Average Strategy Backtest on Reliance.ipynb"
+   ```bash
+   python "Simple Moving Average Strategy Backtest on Reliance.ipynb"
+   ```
 
 4. **Analyze Results**:
 
