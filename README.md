@@ -16,7 +16,7 @@ Welcome to the Strategy Backtesting repository! This repository contains a colle
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Strategy-Backtesting.git
+   git clone https://github.com/trippynix/Strategy-Backtesting.git
    cd Strategy-Backtesting
    ```
 
